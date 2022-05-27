@@ -1,0 +1,39 @@
+.container {
+  margin: 0 auto;
+  width: 400px;
+  height: 200px;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+.container p {
+  width: 250px;
+  margin: 10px auto;
+  font-size: 30px;
+  color: purple;
+}
+
+.container .roll {
+  margin-top: 10px;
+  margin-left: 35%;
+}
+
+.container .stop {
+  margin-top: 10px;
+  margin-left: 3%;
+}
+
+.container .dice {
+  width: 70px;
+  height: 70px;
+  margin: 0 auto;
+  margin-top: 20px;
+  border: red solid 1px;
+}
+
+.container .dice .number {
+  margin: auto;
+  width: 8px;
+  height: 8px;
+  padding-top: 25px;
+}
